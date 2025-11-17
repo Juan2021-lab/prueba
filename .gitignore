@@ -1,1 +1,9 @@
+# Ignorar bases pesadas
 data/Data.csv
+data/muestra.csv
+
+# Ignorar TODA la carpeta data
+data/
+
+# Ignorar venv completo
+venv/
