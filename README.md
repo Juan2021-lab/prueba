@@ -55,4 +55,7 @@ Amazon Redshift
 
 Amazon SageMaker Feature Store
 
+## 🎥 Video explicativo del proyecto  
+[Haz clic aquí para ver el video](https://youtu.be/CEGQz3seizg)
+
 
